@@ -1,4 +1,4 @@
-# week3: University Management System Database Design
+# Week  3: University Management System Database Design
 
 This week, you will gain practical experience in designing and implementing a relational database schema. You will design a schema for a University Management System, focusing on entities like Students, Courses, Instructors, and Enrollments.  You will then translate this schema into SQL statements to create the database tables and populate them with sample data.
 
