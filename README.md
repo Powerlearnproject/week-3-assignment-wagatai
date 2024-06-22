@@ -14,6 +14,7 @@ What you'll need:
 A computer with internet access
 A text editor (e.g., Notepad, Google Docs)
 Access to your Expense Tracker database (or instructor-provided data) [We'll be using the "Expenses" table]
+Import expense_tracker_expenses.sql file into MySQL Workbench and use that to answer the questions below. 
 
 _________________________________________________________________________________________________________________________
 ## Submission:
